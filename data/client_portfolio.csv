@@ -1,0 +1,13 @@
+client_name,account_number,report_date
+John Smith,ACC-2024-1234,2024-01-31
+Symbol,Name,Quantity,Price,Cost Basis
+AAPL,Apple Inc.,150,185.50,142.30
+MSFT,Microsoft Corporation,200,380.75,295.60
+GOOGL,Alphabet Inc. Class A,75,142.85,118.90
+AMZN,Amazon.com Inc.,50,175.20,128.45
+TSLA,Tesla Inc.,100,248.50,215.80
+NVDA,NVIDIA Corporation,125,875.25,420.15
+META,Meta Platforms Inc.,80,475.60,325.80
+BRK.B,Berkshire Hathaway Inc. Class B,60,420.30,385.70
+JPM,JPMorgan Chase & Co.,150,185.40,152.90
+V,Visa Inc.,100,275.80,232.50
