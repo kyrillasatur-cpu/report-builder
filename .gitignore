@@ -37,3 +37,6 @@ Thumbs.db
 # Output files (keep directory, ignore contents except .gitkeep)
 output/*.pdf
 !output/.gitkeep
+
+# Generated PDF reports
+*.pdf
