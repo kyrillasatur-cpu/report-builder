@@ -40,3 +40,4 @@ output/*.pdf
 
 # Generated PDF reports
 *.pdf
+!examples/*.pdf
