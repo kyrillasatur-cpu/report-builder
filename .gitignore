@@ -41,3 +41,9 @@ output/*.pdf
 # Generated PDF reports
 *.pdf
 !examples/*.pdf
+
+# Client data files (protect real client information)
+data/*
+!data/.gitkeep
+!data/sample_*.csv
+!data/client_portfolio.csv
