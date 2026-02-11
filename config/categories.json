@@ -1,0 +1,24 @@
+{
+  "categories": {
+    "Core": {
+      "subcategories": {
+        "Growth Equities": ["VUG", "SCHG", "QQQM", "IWF", "MGK"],
+        "Value Equities": ["VTV", "SCHV", "RPV", "VONV", "IWD"],
+        "International Equities": ["VXUS", "IXUS", "SPDW", "VEA", "EFA"],
+        "Emerging Markets": ["VWO", "IEMG", "SCHE", "EEM"],
+        "Fixed Income": ["BND", "AGG", "SCHZ", "VBTLX", "TLT"],
+        "Short-Term Bonds": ["SHV", "VGSH", "BSV", "SCHO"]
+      }
+    },
+    "Alternative": {
+      "subcategories": {
+        "Gold": ["GLD", "IAU", "SGOL", "GLDM"],
+        "Silver": ["SLV", "SIVR"],
+        "Commodities": ["DJP", "GSG", "PDBC", "DBC"],
+        "Digital Assets": ["IBIT", "FBTC", "BITO", "ETHE", "BITB"],
+        "Real Estate": ["VNQ", "SCHH", "IYR", "XLRE"],
+        "Private Credit": ["SRLN", "BKLN", "FLOT"]
+      }
+    }
+  }
+}

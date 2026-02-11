@@ -1,0 +1,31 @@
+{
+  "company": {
+    "name": "Centerfin",
+    "tagline": "Wealth Management",
+    "full_name": "Centerfin Financial",
+    "website": "www.centerfin.com"
+  },
+  "colors": {
+    "primary_dark": "#1a1a2e",
+    "primary_medium": "#16213e",
+    "primary_light": "#0f3460",
+    "accent_green": "#2d6a4f",
+    "accent_green_light": "#40916c",
+    "accent_gold": "#b08968",
+    "accent_gold_light": "#ddb892",
+    "text_dark": "#1a1a2e",
+    "text_medium": "#495057",
+    "text_light": "#6c757d",
+    "background": "#ffffff",
+    "background_alt": "#f8f9fa",
+    "border": "#dee2e6"
+  },
+  "chart": {
+    "core_gradient": ["#2d6a4f", "#40916c", "#52b788", "#74c69d", "#95d5b2", "#b7e4c7"],
+    "alternative_gradient": ["#7f5539", "#9c6644", "#b08968", "#ddb892", "#e6ccb2", "#ede0d4"]
+  },
+  "fonts": {
+    "heading": "'Georgia', 'Times New Roman', serif",
+    "body": "'Helvetica Neue', 'Arial', sans-serif"
+  }
+}

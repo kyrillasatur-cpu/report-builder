@@ -1,0 +1,21 @@
+Symbol,Name,Quantity,Price,Market Value,Weight
+VUG,Vanguard Growth ETF,450,365.20,164340.00,16.5
+SCHG,Schwab U.S. Large-Cap Growth ETF,600,95.80,57480.00,5.8
+VTV,Vanguard Value ETF,520,162.45,84474.00,8.5
+SCHV,Schwab U.S. Large-Cap Value ETF,700,57.30,40110.00,4.0
+VXUS,Vanguard Total International Stock ETF,800,58.90,47120.00,4.7
+VWO,Vanguard FTSE Emerging Markets ETF,550,44.25,24337.50,2.4
+BND,Vanguard Total Bond Market ETF,900,72.15,64935.00,6.5
+AGG,iShares Core U.S. Aggregate Bond ETF,400,99.80,39920.00,4.0
+SHV,iShares Short Treasury Bond ETF,300,110.05,33015.00,3.3
+GLD,SPDR Gold Shares,350,238.50,83475.00,8.4
+IAU,iShares Gold Trust,500,47.85,23925.00,2.4
+SLV,iShares Silver Trust,800,28.90,23120.00,2.3
+IBIT,iShares Bitcoin Trust ETF,1200,58.75,70500.00,7.1
+FBTC,Fidelity Wise Origin Bitcoin Fund,600,57.20,34320.00,3.4
+VNQ,Vanguard Real Estate ETF,450,88.60,39870.00,4.0
+SCHH,Schwab U.S. REIT ETF,600,22.75,13650.00,1.4
+PDBC,Invesco Optimum Yield Diversified Commodity Strategy,1500,14.85,22275.00,2.2
+DBC,Invesco DB Commodity Index Tracking Fund,800,24.20,19360.00,1.9
+SRLN,SPDR Blackstone Senior Loan ETF,700,42.80,29960.00,3.0
+BKLN,Invesco Senior Loan ETF,600,21.35,12810.00,1.3
