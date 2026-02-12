@@ -50,3 +50,13 @@ data/*
 !data/input/
 !data/output/
 data/output/*.html
+
+# Real client data — NEVER commit these
+data/clients/*
+!data/clients/.gitkeep
+
+# Anonymized data — safe to commit for testing
+!data/anonymized/
+
+# Name-mapping files (link anonymous IDs back to real names)
+_name_mapping.json
